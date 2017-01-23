@@ -1,0 +1,10 @@
+02 VGA_Monitor_square
+05 LED_Monitor_square
+06 LED_Monitor_wide
+10 Flat_Screen_TV_portable
+14 Flat_Screen_TV_table
+16 Flat_Screen_TV_floor
+17 Flat_Screen_TV_wall
+20 Computer_Stand_M12
+21 Computer_Stand_M22
+23 Computer_Stand_M27
